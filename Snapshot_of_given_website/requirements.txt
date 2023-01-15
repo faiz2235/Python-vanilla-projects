@@ -1,0 +1,3 @@
+selenium
+# chromedriver-binary==109.0.5414.74
+chromedriver-binary==XX.X.XXXX.XX.X
