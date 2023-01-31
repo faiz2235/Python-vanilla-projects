@@ -34,5 +34,5 @@ v2 = in1.filter('trim', start=float(args.endtime))
 out1 = ffmpeg.output(v1, args.outputfile1)
 out2 = ffmpeg.output(v2, args.outputfile2)
 
-out1.run()
-out2.run()
+ffmpeg.run(out1)
+ffmpeg.run(out2)
