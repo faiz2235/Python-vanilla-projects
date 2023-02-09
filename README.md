@@ -12,3 +12,7 @@
 - `7`: Speech To Text
 - `8`: Speed Test
 - `9`: Split file
+- `10`: Split folder into subfolders
+- `11`: Spreadsheet Automation
+- `12`: Store emails in CSV file
+- `13`: String search from multiple files
