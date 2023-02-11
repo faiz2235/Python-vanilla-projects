@@ -16,3 +16,5 @@
 - `11`: Spreadsheet Automation
 - `12`: Store emails in CSV file
 - `13`: String search from multiple files
+- `14`: Terminal based hangman game
+- `15`: Terminal based progress bar image resize
