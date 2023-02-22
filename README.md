@@ -18,3 +18,8 @@
 - `13`: String search from multiple files
 - `14`: Terminal based hangman game
 - `15`: Terminal based progress bar image resize
+- `16`: Text to Speech
+- `17`: Text Editor
+- `18`: Simple GUI Calculator
+- `19`: GUI Weather App
+- `20`: Text File Analisys
