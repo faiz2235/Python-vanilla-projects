@@ -23,3 +23,4 @@
 - `18`: Simple GUI Calculator
 - `19`: GUI Weather App
 - `20`: Text File Analisys
+- `21`: Tic Tac Toe
