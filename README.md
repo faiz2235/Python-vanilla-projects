@@ -24,3 +24,4 @@
 - `19`: GUI Weather App
 - `20`: Text File Analisys
 - `21`: Tic Tac Toe
+- `22`: Tic Tac Toe AI
