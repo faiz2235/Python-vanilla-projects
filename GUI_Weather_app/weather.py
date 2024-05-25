@@ -36,3 +36,5 @@ description_label = tk.Label(root, text="")
 description_label.pack()
 
 root.mainloop()
+
+print("Thanks for using the weather app!")

@@ -14,3 +14,5 @@ while guess != Number :
     guess = int(input("What's your guess...??? "))
 # win message
 print ("You did it...")
+
+print ("The number was " , Number)
